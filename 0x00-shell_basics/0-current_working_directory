@@ -1,2 +1,2 @@
 #!/bin/bash
-readpath 0-current_working_directory
+realpath 0-current_working_directory
