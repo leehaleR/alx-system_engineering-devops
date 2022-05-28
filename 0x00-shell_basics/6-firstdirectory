@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(mkdir -m  /tmp/my_first_directory)"
+echo "$(mkdir -p /tmp/6-firstdirectory)"
